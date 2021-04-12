@@ -1,0 +1,25 @@
+console.log ("PrIaNnA");
+var first_name = "prianna ";
+console.log (first_name);
+var last_name = "dave";
+console.log (last_name);
+var full_name = first_name.concat(last_name);
+console.log (full_name);
+var length_of_full_name = full_name.length;
+console.log (length_of_full_name);
+var caplital_letter = full_name.toUpperCase ();
+console.log (caplital_letter);
+var lowercase = caplital_letter.toLowerCase ();
+console.log (lowercase);
+var number = 1;
+console.log (number);
+var number_two= 2;
+console.log (number_two);
+console.log (number + number_two);
+var max_number = Math.max (1,2);
+console.log = (max_number);
+var min = Math.min (1,2);
+console.log (min);
+var big_number = (1.23674);
+var to_fixed = big_number.toFixedv(2)
+console.log (to_fixed);
